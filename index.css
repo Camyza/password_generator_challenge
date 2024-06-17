@@ -27,6 +27,7 @@ h2 {
     color: #4ADF86;
     font-family: "Karla", sans-serif;
     font-size: 2em;
+    margin-bottom: -10px;
 }
 
 #generate-btn {
