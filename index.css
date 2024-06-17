@@ -3,16 +3,18 @@ body {
     background: #1C1C1C;
     color: #D5D4D8;
     font-family: "Inter", sans-serif;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    place-items: center;
 }
 
 #container {
     background: #1F2937;
     margin: 0 auto;
-    width: 500px;
     padding: 20px;
+
 }
 
 h1 {
