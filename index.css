@@ -3,13 +3,13 @@ body {
     background: #1C1C1C;
     color: #D5D4D8;
     font-family: "Inter", sans-serif;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 
 #container {
     background: #1F2937;
     margin: 0 auto;
-    width: 50%;
+    width: 40%;
     padding: 20px;
 }
 
