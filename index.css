@@ -3,7 +3,9 @@ body {
     background: #1C1C1C;
     color: #D5D4D8;
     font-family: "Inter", sans-serif;
-    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #container {
